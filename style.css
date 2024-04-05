@@ -1,0 +1,33 @@
+body{
+    font-family: 'Ubuntu';
+}
+#btn_search{
+    background-color: transparent;
+    border-radius: 13px ;
+    margin-left: 80px;
+    margin-top: 30px;
+    width: 130px;
+    padding: 5px 5px;
+    color:#54F0A2 ;
+    border: 2px solid #54F0A2 ;
+}
+#btn_mas{
+    margin-left: 80px;
+    margin-top: 20px;
+    border-radius: 60%;
+    background-color: #54F0A2;
+    color: white;
+    border: 2px solid #54F0A2 ;
+    padding: 5px 10px ;
+    font-size: 24px; 
+}
+#btn_create{
+    margin-left: 80px;
+    margin-top: 20px;
+    background-color: #465ED5;
+    width: 130px;
+    color:white;
+    border: 3px solid #060606 ;
+    padding: 5px 5px;
+    box-shadow:4px 5px 0px black;
+}
